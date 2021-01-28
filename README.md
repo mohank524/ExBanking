@@ -49,3 +49,9 @@ iex(7)> ExBanking.send("mohan", "kumar", 1,  "EUR")
 iex(8)> 
 
 ```
+
+The command line to execute documentation
+
+```
+$ mix docs
+```
